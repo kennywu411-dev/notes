@@ -99,4 +99,4 @@ Opus 有将近一半的预测和标准答案一模一样。
 
 评测器在三组自检上和官方判分函数逐题对比过，每组 500 题，0 不一致。如果你也在用 BIRD，欢迎交流。
 
-代码和每次运行的记录在 [DataPilot](https://github.com/kennywu411-dev/datapilot)，文中的数字都能在它的 [`docs/numbers.md`](https://github.com/kennywu411-dev/datapilot/blob/main/docs/numbers.md) 里找到。
+代码和每次运行的记录在 [MetricLens](https://github.com/kennywu411-dev/metriclens)，文中的数字都能在它的 [`docs/numbers.md`](https://github.com/kennywu411-dev/metriclens/blob/main/docs/numbers.md) 里找到。

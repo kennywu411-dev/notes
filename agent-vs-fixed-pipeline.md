@@ -78,4 +78,4 @@ E4 和 Agent 拿到的信息是一样的，区别是 E4 的步骤是代码写死
 
 每组对比都在同一批题上做配对检验。
 
-代码和每次运行的记录在 [DataPilot](https://github.com/kennywu411-dev/datapilot)，文中的数字都能在它的 [`docs/numbers.md`](https://github.com/kennywu411-dev/datapilot/blob/main/docs/numbers.md) 里找到。
+代码和每次运行的记录在 [MetricLens](https://github.com/kennywu411-dev/metriclens)，文中的数字都能在它的 [`docs/numbers.md`](https://github.com/kennywu411-dev/metriclens/blob/main/docs/numbers.md) 里找到。
